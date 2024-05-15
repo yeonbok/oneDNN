@@ -180,6 +180,7 @@ status_t memory_desc_wrapper::compute_blocking(
         C(cabd, {2, 0, 1, 3}, {}, {});
         C(cdab, {2, 3, 0, 1}, {}, {});
         C(cdba, {2, 3, 1, 0}, {}, {});
+        C(dabc, {3, 0, 1, 2}, {}, {});
         C(dcab, {3, 2, 0, 1}, {}, {});
         C(cdeab, {2, 3, 4, 0, 1}, {}, {});
         C(cdeba, {2, 3, 4, 1, 0}, {}, {});

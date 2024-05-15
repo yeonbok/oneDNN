@@ -2696,6 +2696,7 @@ struct memory : public handle<dnnl_memory_t> {
         aCB8b8c = dnnl_aCB8b8c,
         bcad = dnnl_bcad,
         cabd = dnnl_cabd,
+        dabc = dnnl_dabc,
     };
 
     /// A memory descriptor.

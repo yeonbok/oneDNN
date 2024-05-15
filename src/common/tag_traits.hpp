@@ -352,6 +352,7 @@ DECL_TRAITS(bcdea, _, _, 5);
 DECL_TRAITS(cba, _, _, 3);
 DECL_TRAITS(cabd, _, _, 4);
 DECL_TRAITS(cdba, _, _, 4);
+DECL_TRAITS(dabc, _, _, 4);
 DECL_TRAITS(dcab, _, _, 4);
 DECL_TRAITS(cdeba, _, _, 5);
 DECL_TRAITS(decab, _, _, 5);

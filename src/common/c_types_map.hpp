@@ -291,6 +291,7 @@ const format_tag_t cba = dnnl_cba;
 const format_tag_t cabd = dnnl_cabd;
 const format_tag_t cdab = dnnl_cdab;
 const format_tag_t cdba = dnnl_cdba;
+const format_tag_t dabc = dnnl_dabc;
 const format_tag_t dcab = dnnl_dcab;
 const format_tag_t cdeab = dnnl_cdeab;
 const format_tag_t cdeba = dnnl_cdeba;
